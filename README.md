@@ -1,6 +1,7 @@
 # Spotify Recommender
 
 ![Spotify Logo](https://raw.githubusercontent.com/Futuroent/G4spotify/master/Image/spotify6.png)
+
 This application is a song recommender using Spotify music data. The user is asked the title of a song, and the application suggest other songs to listen to based on shared characteristics.
 
 ## Features
@@ -14,3 +15,5 @@ This application is a song recommender using Spotify music data. The user is ask
 - Libraies: Pandas, Pickle, sklearn.
 - Streamlit: creation of the recommender application.
 - Spotify: API connection and Spotipy library.
+
+## Demo of the Spotify Song Recommender - https://g4spotify-i3u9pgrghkj9fmo3ndtna6.streamlit.app/
