@@ -4,7 +4,7 @@ import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 import pickle
 
-st.image("spotify6.png", width=100) 
+st.image("Data/Image/spotify6.png", width=100) 
 # Title of the app
 st.title(":green[_Spotify_] Song Recommender")
 st.subheader("_Music for Everyone_ :sunglasses:", divider=True)
