@@ -1,4 +1,8 @@
 # Spotify Recommender
+This application is a song recommender using Spotify music data. The user is asked the title of a song, and the application suggests other songs to listen to based on shared characteristics.
+
+![Spotify Logo](https://raw.githubusercontent.com/Futuroent/G4spotify/master/Image/spotify6.png)
+
 
 This application is a song recommender using Spotify music data. The user is asked the title of a song, and the application suggest other songs to listen to based on shared characteristics.
 
