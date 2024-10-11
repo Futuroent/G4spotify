@@ -16,4 +16,5 @@ This application is a song recommender using Spotify music data. The user is ask
 - Streamlit: creation of the recommender application.
 - Spotify: API connection and Spotipy library.
 
-## Spotify Song Recommender :  https://g4spotify-i3u9pgrghkj9fmo3ndtna6.streamlit.app/
+## Spotify Song Recommender:
+https://g4spotify-i3u9pgrghkj9fmo3ndtna6.streamlit.app/
